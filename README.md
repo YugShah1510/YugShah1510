@@ -1,20 +1,20 @@
-<!-- ========================================================= -->
-<!--                 Yug Shah | GitHub Profile                 -->
-<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yug%20Shah&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%26%20AI&descAlignY=60"/>
 
 <div align="center">
 
-# Hey 👋 I'm Yug Shah
+<h1>
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Yug Shah
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;B.Tech+CSE+%26+AI+Student;React+%7C+Node.js+Developer;Competitive+Programmer;Building+Ideas+into+Reality+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+Developer;Competitive+Programmer;Open+Source+Learner;Always+Building+Something+Awesome+🚀"/>
 
 <br>
 
 <a href="https://github.com/YugShah1510">
-<img src="https://img.shields.io/github/followers/YugShah1510?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/github/followers/YugShah1510?style=for-the-badge&logo=github&color=181717"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YugShah1510&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=YugShah1510&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -22,27 +22,27 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 🎓 Second-Year B.Tech Student in **Computer Science & Artificial Intelligence**
 
 🏫 Newton School of Technology
 
-💻 Passionate about building scalable and user-friendly web applications
+💻 Passionate about building modern and scalable web applications.
 
-🚀 Interested in
-
-- Full Stack Development
-- Artificial Intelligence
-- Open Source
-- Competitive Programming
-
-🌱 Currently learning
+🌱 Currently exploring
 
 - Node.js
 - Express.js
 - Backend Development
 - System Design
+
+🚀 Interested in
+
+- Full Stack Development
+- Artificial Intelligence
+- Competitive Programming
+- Open Source
 
 🏆 Achievements
 
@@ -92,13 +92,9 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugShah1510&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YugShah1510&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=YugShah1510&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -108,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugShah1510&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugShah1510&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true"/>
 
 </div>
 
@@ -119,11 +115,17 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/15_YugShah/">
+
 <img src="https://img.shields.io/badge/LeetCode-130%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://codeforces.com/profile/Yug_Shah">
+
 <img src="https://img.shields.io/badge/Codeforces-100%2B%20Solved-blue?style=for-the-badge&logo=codeforces"/>
+
 </a>
 
 </div>
@@ -134,41 +136,43 @@
 
 ## 🌐 PortX
 
-A modern marketplace for developer portfolio templates built with **React**, **Vite**, and **CSS**.
+Marketplace for beautiful developer portfolio templates.
 
-🔗 https://github.com/YugShah1510/PortX
+**Tech Stack:** React • Vite • CSS
 
----
-
-## 🛍️ Radiant Retro
-
-A modern e-commerce platform for ethnic fashion featuring a responsive UI, product catalog, shopping cart, and Shopify integration.
-
-🚧 Currently under development.
+🔗 **Repository:**  
+**https://github.com/YugShah1510/PortX**
 
 ---
 
 ## 📖 Dictionary App
 
-A clean dictionary application built using REST APIs, featuring word meanings, phonetics, examples, and synonyms.
+Dictionary application built using REST APIs.
+
+### Features
+
+- Word meanings
+- Phonetics
+- Examples
+- Synonyms
+
+---
+
+## 🚀 Currently Building
+
+- Modern Full Stack Applications
+- Backend APIs with Node.js & Express
+- AI-powered Projects
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-Backend Development
-██████████░░░░░░ 65%
+<div align="center">
 
-Node.js
-███████████░░░░░ 70%
+<img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws"/>
 
-System Design
-█████░░░░░░░░░░░ 35%
-
-Cloud & Deployment
-██████░░░░░░░░░░ 40%
-```
+</div>
 
 ---
 
@@ -176,24 +180,21 @@ Cloud & Deployment
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yug-shah-45a88b376/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
 <a href="mailto:yugshah2905@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
+&nbsp;
+
+<a href="https://www.linkedin.com/in/yug-shah-45a88b376/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;
+
 <a href="https://github.com/YugShah1510">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
-<!-- Add your portfolio here once it's live -->
-<!--
-<a href="https://yourportfolio.com">
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-</a>
--->
 
 </div>
 
@@ -201,10 +202,18 @@ Cloud & Deployment
 
 <div align="center">
 
-### 💡 Favorite Quote
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
