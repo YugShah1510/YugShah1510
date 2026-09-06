@@ -46,11 +46,9 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 🏆 Achievements
 
-- 🧠 130+ LeetCode Problems
+- 🧠 150+ LeetCode Problems
 - ⚔️ 120+ Codeforces Problems
-- 🥇 SIH Top 15 Team
-- 🏓 InterClan Runner-Up
-- 🎮 Two-Time E-Sports Winner
+
 
 📍 Ahmedabad, Gujarat, India
 
